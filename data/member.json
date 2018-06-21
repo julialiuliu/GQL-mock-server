@@ -1,0 +1,43 @@
+{
+  "members": [
+      {
+          "id": "1",
+          "username": "addbag1",
+          "airpointsNumber": "123456",
+          "password": "password01",
+          "title": "Miss",
+          "firstname": "Add Bag",
+          "surname": "Tester",
+          "loyaltyTier": "GOLD",
+          "passengerType": "ADULT",
+          "email": "addbag1@gmail.com",
+          "customerGuid": "d9feac660c5a4f719a2cd1f53da20af1"
+      },
+      {
+          "id": "2",
+          "username": "addbooking1",
+          "airpointsNumber": "123456",
+          "password": "password01",
+          "title": "Miss",
+          "firstname": "Add Booking",
+          "surname": "Tester",
+          "loyaltyTier": "GOLD",
+          "passengerType": "ADULT",
+          "email": "addbooking1@gmail.com",
+          "customerGuid": "d9feac660c5a4f719a2cd1f53da20af1"
+      },
+      {
+          "id": "3",
+          "username": "addinsurance1",
+          "airpointsNumber": "123456",
+          "password": "password01",
+          "title": "Miss",
+          "firstname": "Add Insurance",
+          "surname": "Tester",
+          "loyaltyTier": "GOLD",
+          "passengerType": "ADULT",
+          "email": "addinsurance1@gmail.com",
+          "customerGuid": "d9feac660c5a4f719a2cd1f53da20af1"
+      }
+  ]
+}
